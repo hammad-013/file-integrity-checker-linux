@@ -24,6 +24,7 @@ chmod +x integrity.sh
 # Help & version
 ./integrity.sh --help
 ./integrity.sh --version
+```
 
 ## 📷 Output Screenshot
 
