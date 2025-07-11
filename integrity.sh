@@ -93,7 +93,7 @@ showHelp(){
 	echo ""
 	echo "Usage:"
 	echo " ${GREEN}$0 init /path/to/folder${NORMAL}	Initialize file hashes"
-	echo " ${GREEN}$0 scan /path/to/folder${NORMAL}	Scan snd compare hashes"
+	echo " ${GREEN}$0 scan /path/to/folder${NORMAL}	Scan and compare hashes"
 	echo " ${GREEN}$0 --help or -h${NORMAL}		Show this help page"
 	echo ""
 	echo "Description:"
